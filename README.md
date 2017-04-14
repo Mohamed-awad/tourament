@@ -20,7 +20,8 @@ you need to install :-
 * Vagrant
 
 you can follow this link for installing Vagrant and virualBox :
-https://classroom.udacity.com/nanodegrees/nd004/parts/0041345405/modules/353202897075460/lessons/3423258756/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0#
+
+https://drupalize.me/videos/installing-vagrant-and-virtualbox?p=1526
 
 # Run The Application 
 
