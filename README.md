@@ -30,4 +30,3 @@ https://drupalize.me/videos/installing-vagrant-and-virtualbox?p=1526
 2- Run this command python tournament_test.py.
 
 
-# That`s it
